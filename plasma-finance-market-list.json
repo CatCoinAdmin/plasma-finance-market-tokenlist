@@ -1,40 +1,40 @@
 [
   {
-    "name": "Plasma Finance",
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2.png",
+    "name": "Cat Coin",
+    "logoURI": "IN PROGRESS",
     "tags": [
-      "defi",
-      "alliance",
-      "dex",
+      "crypto",
+      "cat",
+      "coin exchange",
       "trending",
       "ido"
     ],
-    "coingeckoId": "plasma-finance",
+    "coingeckoId": "cat-coin",
     "description": {
-      "en": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "es": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "fr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "hu": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "id": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "it": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ja": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ko": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "nl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "pl": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "pt": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ro": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "ru": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "sv": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "th": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "tr": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "vi": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "zh": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform.",
-      "zh-tw": "Plasma.Finance is a cross-chain DeFi aggregator and portfolio management platform."
+      "en": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!.",
+      "es": "IN PROGRESS.",
+      "fr": "La pièce de monnaie aux chats est la forme de crypto-monnaie qui finalement donne les 480 millions chats errands du monde une methode pour destruir les humains!",
+      {{{{"hu": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "id": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "it": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "ja": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "ko": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "nl": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "pl": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "pt": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "ro": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "ru": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "sv": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "th": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "tr": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "vi": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "zh": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!",
+      "zh-tw": "Cat Coin is the coin that finally gives every one of the 480 million stray cats of the world a way to destroy all hoomans!" }}}} * ASK IF NEEDED TO TRANSLATE
     },
     "links": [
       {
-        "icon": "website",
-        "name": "Website",
+        "icon": "IN PROGRESS",
+        "name": "IN PROGRESS",
         "url": "https://plasma.finance"
       },
       {
@@ -43,12 +43,12 @@
         "url": "https://docs.plasma.finance"
       },
       {
-        "icon": "telegram",
-        "name": "Telegram",
+        "icon": "IN PROGRESS",
+        "name": "IN PROGRESS",
         "url": "https://t.me/OxPlasma"
       },
       {
-        "icon": "reddit",
+        "icon": "TO BE DONE",
         "name": "Reddit",
         "url": "https://www.reddit.com/r/PlasmaFinance/"
       },
